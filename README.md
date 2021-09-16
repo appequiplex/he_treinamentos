@@ -1,6 +1,7 @@
 # he_treinamentos
 
 Api_key gerada atraves do site: https://www.themoviedb.org/
+Tutorial onde encontrar: https://www.youtube.com/watch?v=Gf45f5cW6c4
 
 ## Getting Started
 
